@@ -1,4 +1,4 @@
-# gradle-simple
+# gradle-simple example program
 
 [![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple)
 
